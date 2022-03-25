@@ -1,6 +1,6 @@
 # [GitHub Stats Visualization](https://github.com/aritz331/stats)
 
-<a href=".">
+<a href="/generated">
 
 ![](/generated/overview.svg)
 ![](/generated/languages.svg)
